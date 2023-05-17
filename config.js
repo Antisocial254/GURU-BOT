@@ -7,20 +7,20 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['25411409858', 'KHALID', true],
-  ['254712913436', 'GURA BOT', true], 
+  ['254712594651', 'ANTISOCIAL KE', true],
+  ['254712594651', 'ANTI BOT', true], 
   [''] 
 ] //Number of owners
 
-global.mods = ['917605902011','32460248586'] 
-global.prems = ['25411409858', '32460248586', '254712913436']
+global.mods = ['254712594651','32460248586'] 
+global.prems = ['254757431922,', '32460248586', '254712594651']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
 global.keysxteam = keysxteammm[Math.floor(keysxteammm.length * Math.random())]
 global.keysneoxrrr = ['5VC9rvNx', 'cfALv5']
 global.keysneoxr = keysneoxrrr[Math.floor(keysneoxrrr.length * Math.random())]
-global.lolkeysapi = ['BrunoSobrino']
+global.lolkeysapi = ['boni']
 
 global.APIs = { // API Prefix
   // name: 'https://website'
@@ -47,10 +47,10 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'SANDARU-YT'
+global.botname = 'ANTISOCIAL KE'
 global.premium = 'true'
-global.packname = 'GURU┃ᴮᴼᵀ' 
-global.author = '@Asliguru' 
+global.packname = 'ANTI┃ᴮᴼᵀ' 
+global.author = '@Antike' 
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
 global.dygp = 'https://chat.whatsapp.com/BibVE6tUICp3qOm2a1Ur8f'
 global.fgsc = 'https://github.com/Guru322/GURU-BOT-V1' 
